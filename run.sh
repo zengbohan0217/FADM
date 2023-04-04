@@ -1,0 +1,1 @@
+python run.py --n_epochs 100 --output_dir train_path
